@@ -1,0 +1,11 @@
+_id,patientId,name,age,gender,address,phone,email,medicalHistory
+6680f2108f3d01848702b9b0,P001,John Doe,30,Male,123 Main St,123-456-7890,john.doe@example.com,None
+6680f2368f3d01848702b9b1,P002,Jane Smith,25,Female,456 Elm St,987-654-3210,jane.smith@example.com,Asthma
+6680f2368f3d01848702b9b2,P003,Alice Johnson,40,Female,789 Oak St,654-321-9870,alice.johnson@example.com,Diabetes
+6680f2368f3d01848702b9b3,P004,Bob Brown,50,Male,101 Pine St,321-654-0987,bob.brown@example.com,Hypertension
+6680f2368f3d01848702b9b4,P005,Charlie Davis,35,Male,202 Maple St,654-987-3210,charlie.davis@example.com,None
+6680f2368f3d01848702b9b5,P006,Diana Evans,45,Female,303 Birch St,987-123-4567,diana.evans@example.com,Arthritis
+6680f2368f3d01848702b9b6,P007,Ethan Harris,28,Male,404 Cedar St,123-987-6543,ethan.harris@example.com,None
+6680f2368f3d01848702b9b7,P008,Fiona Clark,32,Female,505 Willow St,321-123-9876,fiona.clark@example.com,Allergies
+6680f2368f3d01848702b9b8,P009,George Lewis,55,Male,606 Aspen St,456-321-1234,george.lewis@example.com,Heart Disease
+6680f2368f3d01848702b9b9,P010,Hannah Walker,38,Female,707 Cherry St,789-456-1230,hannah.walker@example.com,None

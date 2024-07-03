@@ -1,0 +1,11 @@
+_id,doctorId,name,specialization,phone,email,consultationHours
+6680f2778f3d01848702b9c4,D001,Dr. Smith,Cardiology,987-654-3210,dr.smith@example.com,9AM - 5PM
+6680f2778f3d01848702b9c5,D002,Dr. Johnson,Dermatology,123-456-7890,dr.johnson@example.com,10AM - 4PM
+6680f2778f3d01848702b9c6,D003,Dr. Brown,Neurology,456-789-1230,dr.brown@example.com,8AM - 2PM
+6680f2778f3d01848702b9c7,D004,Dr. Taylor,Orthopedics,789-123-4560,dr.taylor@example.com,11AM - 7PM
+6680f2778f3d01848702b9c8,D005,Dr. Anderson,Pediatrics,321-654-9870,dr.anderson@example.com,9AM - 3PM
+6680f2778f3d01848702b9c9,D006,Dr. Thomas,Psychiatry,654-987-3210,dr.thomas@example.com,1PM - 9PM
+6680f2778f3d01848702b9ca,D007,Dr. Jackson,Surgery,987-321-6540,dr.jackson@example.com,7AM - 3PM
+6680f2778f3d01848702b9cb,D008,Dr. White,Radiology,123-789-4560,dr.white@example.com,8AM - 4PM
+6680f2778f3d01848702b9cc,D009,Dr. Harris,Gastroenterology,456-123-7890,dr.harris@example.com,9AM - 6PM
+6680f2778f3d01848702b9cd,D010,Dr. Martin,Oncology,789-456-1230,dr.martin@example.com,10AM - 5PM

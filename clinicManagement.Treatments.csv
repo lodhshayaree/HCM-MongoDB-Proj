@@ -1,0 +1,11 @@
+_id,treatmentId,patientId,doctorId,treatmentDate,diagnosis,treatment,notes
+6680f2938f3d01848702b9ce,T001,P001,D001,2023-06-28T00:00:00.000Z,Hypertension,Medication,Prescribed antihypertensive drugs
+6680f2938f3d01848702b9cf,T002,P002,D002,2023-06-29T00:00:00.000Z,Acne,Topical cream,Prescribed benzoyl peroxide cream
+6680f2938f3d01848702b9d0,T003,P003,D003,2023-06-30T00:00:00.000Z,Migraine,Medication,Prescribed sumatriptan
+6680f2938f3d01848702b9d1,T004,P004,D004,2023-07-01T00:00:00.000Z,Fracture,Casting,Applied cast to left arm
+6680f2938f3d01848702b9d2,T005,P005,D005,2023-07-02T00:00:00.000Z,Asthma,Inhaler,Prescribed albuterol inhaler
+6680f2938f3d01848702b9d3,T006,P006,D006,2023-07-03T00:00:00.000Z,Anxiety,Counseling,Referred to counselor
+6680f2938f3d01848702b9d4,T007,P007,D007,2023-07-04T00:00:00.000Z,Appendicitis,Surgery,Performed appendectomy
+6680f2938f3d01848702b9d5,T008,P008,D008,2023-07-05T00:00:00.000Z,Pneumonia,Antibiotics,Prescribed antibiotics
+6680f2938f3d01848702b9d6,T009,P009,D009,2023-07-06T00:00:00.000Z,Ulcer,Medication,Prescribed proton pump inhibitors
+6680f2938f3d01848702b9d7,T010,P010,D010,2023-07-07T00:00:00.000Z,Diabetes,Insulin,Prescribed insulin therapy

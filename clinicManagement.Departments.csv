@@ -1,0 +1,11 @@
+_id,departmentId,name,head
+6680f2a48f3d01848702b9d8,DEP001,Cardiology,Dr. Smith
+6680f2a48f3d01848702b9d9,DEP002,Dermatology,Dr. Johnson
+6680f2a48f3d01848702b9da,DEP003,Neurology,Dr. Brown
+6680f2a48f3d01848702b9db,DEP004,Orthopedics,Dr. Taylor
+6680f2a48f3d01848702b9dc,DEP005,Pediatrics,Dr. Anderson
+6680f2a48f3d01848702b9dd,DEP006,Psychiatry,Dr. Thomas
+6680f2a48f3d01848702b9de,DEP007,Surgery,Dr. Jackson
+6680f2a48f3d01848702b9df,DEP008,Radiology,Dr. White
+6680f2a48f3d01848702b9e0,DEP009,Gastroenterology,Dr. Harris
+6680f2a48f3d01848702b9e1,DEP010,Oncology,Dr. Martin
